@@ -1,3 +1,11 @@
+A simple book list app built using React and Redux.
+A book list with selected book book detail component.
+
+Using Containers, reducers ,actions and binding action creators.
+Connecting react with redux with connect using the function mapStateToProps and mapDispatchToProps.
+
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
